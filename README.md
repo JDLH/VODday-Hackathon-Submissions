@@ -1,22 +1,26 @@
 # VODday-Hackathon-Submissions
-This is a sample submission repository for Open Data Hackathon Projects. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point. You do not have send a pull request for this repo. This is just a sample of what your repo can look like when you submit it to us as part of the final process for the hackathon.
+We participated in the *Vancouver Open Data Day* on 4. March, 2017.
 
 ##Team Name
-*Choose a fun team name!*
-
-
+*Team Meta*
 
 ##Vancouver Open Data Day Challenge
-*What VODDay Challenge is your project focusing on? (See the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).)*
+
+We didn't particularly focus on the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).*
 
 
 
 ##Prototype Problem Statement
-*A clear statement of the problem your team has identified to address through the project. Use this problem statement as the basis to ideate around. Research and validate the problem to test if it is an issue, or if others are already addressing in. You may need to pivit your problem statement, and ideas around approach depending on what you discover about the issue and resources available.* 
 
-*This will help focus your approach to addressing the challenge.*
+My vision is that apps based on Vancouver open data should be localised into all the languages in which Vancouver residents want them. 
 
+Over [30% of the people in the Vancouver region speak a language other than English at home](http://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GK=CMA&GC=933), says Stats Canada. That is over 700,000 people of the 2.9m people in the area. Now of course localising those apps and web sites is a task for the developer. My discipline, internationalisation (i18n), is a set of design and implementation techniques to make it cheaper and easier to localise an app or web site. At some point, an app or web site presents data sourced from an open data dataset. 
 
+In order for the complete user experience to be localised, the dataset also needs to be localised. A challenge of enabling localisation of open data-sourced apps is to set up formats, social structures, and incentive structures which makes it easier for datasets to get localised into the languages which matter to the end users.
+
+To that end, I picked a modest project for the day. It was to make a [language census of the city of Vancouver’s Open Data datasets](http://wiki.opendataday.org/Vancouver_Open_Data_language_census). The link is to a project page I started on the Open Data Day wiki. 
+
+However, the [Vancouver Open Datasets catalogue](http://data.vancouver.ca/datacatalogue/index.htm) is published as an HTML table. It is difficult to copy this table and process it with software. So, the first problem to solve was converting this catalogue into a standard, machine-readable format.
 
 ##Protoype Summary
 *Summarize your approach to addressing the challenge. Highlight the value of your approach to addressing the challenge, who your inteded users are, and the long term vision.*
