@@ -2,7 +2,7 @@
 We participated in the *Vancouver Open Data Day* on 4. March, 2017.
 
 ##Team Name
-*Team Meta*
+*Team Meta* (Jim DeLaHunt).
 
 ##Vancouver Open Data Day Challenge
 
@@ -23,46 +23,42 @@ To that end, I picked a modest project for the day. It was to make a [language c
 However, the [Vancouver Open Datasets catalogue](http://data.vancouver.ca/datacatalogue/index.htm) is published as an HTML table. It is difficult to copy this table and process it with software. So, the first problem to solve was converting this catalogue into a standard, machine-readable format.
 
 ##Protoype Summary
-*Summarize your approach to addressing the challenge. Highlight the value of your approach to addressing the challenge, who your inteded users are, and the long term vision.*
 
+Generate a version of the Vancouver Open Data catalogue as a dataset. 
+
+Update the dataset list in the Vancouver Open Data language census with the most recent datasets.
+
+Incremental progress on the language census.
 
 
 ##Open Data Sets
 ###What Open Data Sets Will You Use?
-*What open data sets, standards, OpenAPI's etc does your prototype draw on? How does it use them?*
+* [Vancouver Open Data Catalogue](http://data.vancouver.ca/datacatalogue/index.htm)
+* The [Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/)
 
- - List them here...
- 
- 
 
 ###What Open Data Sets Do You Still Need?
-*Identify open data sets that are not yet available, but would benifit or are needed for the project. Explain how you would use the data to improve your prototype and address the challenge.*
-
-*This is your chance to form a mini business case for the data you need to share with open data providers!*
-
+* A dataset containing the *Vancouver Open Data Catalogue*. 
+* Translation of Vancouver open data sets into languages used by the Vancouver public
 
 
 ##Prototype
 ###Live Prototype
-*Link to your prototype.*
-
+Our work is captured in two wiki pages.
+* http://wiki.opendataday.org/Vancouver_Open_Data_language_census lists all the datasets in the Vancouver Open Data catalogue, and notes what kind of language-specific data would need to be translated.
+* http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset is a JSON object listing the datasets in the Vancouver Open Data Catalogue. It is based on the Project Open Data Metadata Schema.
 
 ###Presentation
-*Link to your presentation or any related visuals you want to share.*
-
-
+*None.*
 
 ##Next Steps
-*What do you need to do next to turn this prototype into a working solution?*
-
-
+* Complete the Vancouver Open Data language census.
+* Define requirements for an open-data-driven service delivered in a language other than English.
+* Implement this service
+* Translate the datasets needed to drive this service.
 
 ##Progress
-*Keep updating as you continue to turn your prototype into a working solution.*
- - Summarize what progress you've made since VODday
- - Tweet [@OpenDataBC](https://twitter.com/opendatabc) with your updates
- - Show off your progress at [OpenDataBC events](https://www.meetup.com/OpenDataBC-Vancouver)
- - Share your prototype and progress with the organizations related to the challenge your adressing and the providers of the open data you are using.
-
+* Vancouver Open Data dataset catalogue, in JSON based on [Project Open Data metadata schema](https://project-open-data.cio.gov/v1.1/schema/), available at http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset#Vancouver_Data_Catalogue_in_Common_Core_Metadata_JSON_Format
+* Incremental progress on the Vancouver Open Data language census, available at http://wiki.opendataday.org/Vancouver_Open_Data_language_census
 
 
