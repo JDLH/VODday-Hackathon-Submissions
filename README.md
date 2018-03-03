@@ -6,16 +6,16 @@ We participated in the *Vancouver Open Data Day* on 3. March, 2018.
 
 ## Vancouver Open Data Day Challenge
 
-We didn't particularly focus on the [2018 VODday Challenges](https://www.opendatabc.ca/pages/vodday-2018-vancouver-open-data-day-hackathon#challenges).*
+We didn't particularly focus on the [2018 VODday Challenges](https://www.opendatabc.ca/pages/vodday-2018-vancouver-open-data-day-hackathon#challenges).
 
 ## Prototype Problem Statement
 
-My vision is that apps based on Vancouver open data should be localised into all the 
-languages in which Vancouver residents want them. 
+My vision is that Vancouver-area open data apps should be localised into all the 
+languages in which local residents want them. 
 
-Over [30% of the people in the Vancouver region speak a language other than English at 
-home](http://www12.statcan.gc.ca/census-recensement/2011/as-sa/fogs-spg/Facts-cma-eng.cfm?LANG=Eng&GK=CMA&GC=933), 
-says Stats Canada. That is over 700,000 people of the 2.9m people in the area. 
+Over [40% of the people in the Vancouver region speak a language other than English at 
+home](http://www12.statcan.gc.ca/census-recensement/2016/as-sa/fogs-spg/Facts-CMA-Eng.cfm?TOPIC=5&LANG=Eng&GK=CMA&GC=933), 
+says Stats Canada. That is over 1m people of the 2.4m people in the area. 
 Now of course localising those apps and web sites is a task for the developer. 
 My discipline, internationalisation (i18n), is a set of design and implementation techniques 
 to make it cheaper and easier to localise an app or web site. At some point, an app or 
