@@ -6,7 +6,7 @@ We participated in the *Vancouver Open Data Day* on 4. March, 2017.
 
 ## Vancouver Open Data Day Challenge
 
-We didn't particularly focus on the [2017 VODday Challenges](https://www.opendatabc.ca/pages/2017-vodday-vancouver-open-data-day#challenges).*
+We didn't particularly focus on the [2018 VODday Challenges](https://www.opendatabc.ca/pages/vodday-2018-vancouver-open-data-day-hackathon#challenges).*
 
 
 
@@ -32,7 +32,9 @@ Incremental progress on the language census.
 
 
 ## Open Data Sets
-### What Open Data Sets Will You Use?
+
+### What Open Data Sets Did You Use?
+
 * [Vancouver Open Data Catalogue](http://data.vancouver.ca/datacatalogue/index.htm)
 * The [Project Open Data Metadata Schema](https://project-open-data.cio.gov/v1.1/schema/)
 
@@ -43,21 +45,26 @@ Incremental progress on the language census.
 
 
 ## Prototype
+
 ### Live Prototype
+
 Our work is captured in two wiki pages.
 * http://wiki.opendataday.org/Vancouver_Open_Data_language_census lists all the datasets in the Vancouver Open Data catalogue, and notes what kind of language-specific data would need to be translated.
 * http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset is a JSON object listing the datasets in the Vancouver Open Data Catalogue. It is based on the Project Open Data Metadata Schema.
 
 ### Presentation
+
 *None.*
 
 ## Next Steps
+
 * Complete the Vancouver Open Data language census.
 * Define requirements for an open-data-driven service delivered in a language other than English.
 * Implement this service
 * Translate the datasets needed to drive this service.
 
 ## Progress
+
 * Vancouver Open Data dataset catalogue, in JSON based on [Project Open Data metadata schema](https://project-open-data.cio.gov/v1.1/schema/), available at http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset#Vancouver_Data_Catalogue_in_Common_Core_Metadata_JSON_Format
 * Incremental progress on the Vancouver Open Data language census, available at http://wiki.opendataday.org/Vancouver_Open_Data_language_census
 
