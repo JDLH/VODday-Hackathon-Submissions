@@ -59,9 +59,9 @@ Incremental progress on the language census.
 
 ### Live Prototype
 
-Our work is captured in two wiki pages.
-* http://wiki.opendataday.org/Vancouver_Open_Data_language_census lists all the datasets in the Vancouver Open Data catalogue, and notes what kind of language-specific data would need to be translated.
-* http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset is a JSON object listing the datasets in the Vancouver Open Data Catalogue. It is based on the Project Open Data Metadata Schema.
+Our 2017 work is captured in two wiki pages. Unfortunately this wiki is now read-only, so I couldn’t post updated content there. I may come back to this project, and post the 2018 data somewhere else.
+* http://wiki.opendataday.org/Vancouver_Open_Data_language_census \[2017 edition, read-only] lists all the datasets in the Vancouver Open Data catalogue, and notes what kind of language-specific data would need to be translated.
+* http://wiki.opendataday.org/Vancouver_Open_Data_Catalogue_dataset \[2017 edition, read-only] is a JSON object listing the datasets in the Vancouver Open Data Catalogue. It is based on the Project Open Data Metadata Schema.
 
 ### Presentation
 
